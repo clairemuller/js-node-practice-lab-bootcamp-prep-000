@@ -3,8 +3,6 @@
 var name = "Claire"
 var height = 76
 
-console.log("Name:");
-console.log(name);
+console.log("Name: " + name);
 
-console.log("Height:");
-console.log(height + 2);
+console.log("Height: " + (height + 10));
